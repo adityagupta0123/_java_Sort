@@ -8,6 +8,11 @@ public class Bubblesort {
         System.out.println("enter the length of array");
         int n = sc.nextInt();
         int a[]= new int [n];
+        
+        for (int i=0; i<n; i++ ){
+            a = sc.nextInt();
+        }
+        
      
         for (int i=0; i<n-1; i++ ){
             for(int j=0; j<n-1-i; j++){
