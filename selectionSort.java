@@ -1,10 +1,17 @@
 package Arrays;
-
+import.java.util.Scanner;
 public class SelectionSort {
     public static void main(String[]args){
+        Scanner sc = new Scanner(System.in);
 
-        int a[]={1,-3,5,-11,-5,22};
-        int n=a.length;
+//         int a[]={1,-3,5,-11,-5,22};
+        
+        int n=sc.nextInt();
+        int arr = new Int[n];
+        
+        for(int k=0; k<n; k++){
+            arr[i] = sc.nextInt[]; 
+        }
 
         for (int i=0; i<n-1; i++){
 
