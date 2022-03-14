@@ -9,7 +9,7 @@ public class SelectionSort {
         int n=sc.nextInt();
         int arr = new Int[n];
         
-        for(int k=0; k<n; k++){
+        for(int i=0; i<n; i++){
             arr[i] = sc.nextInt[]; 
         }
 
